@@ -35,6 +35,9 @@ gem 'jbuilder', '~> 2.5'
 # Use devise for users
 gem 'devise'
 
+#Use administrate for the admin dashboard
+gem "administrate"
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
